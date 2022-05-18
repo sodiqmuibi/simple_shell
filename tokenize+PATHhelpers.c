@@ -1,4 +1,4 @@
-#include "main.h"
+#include "holberton.h"
 /**
  * tokenize - creates array of tokens based on user string
  * @buffer: pointer to user string
